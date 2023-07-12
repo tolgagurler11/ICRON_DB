@@ -1,5 +1,8 @@
 from enum import Enum
 
+a = 3
+b = 5
+
 # Define an enumeration class
 class FieldType_XML(Enum):
     String = 1
